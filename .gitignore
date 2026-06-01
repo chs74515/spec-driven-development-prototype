@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Local env/config
+.env
+.env.*
+*.log
+
+# Demo payloads
+payload.json
+*-payload.json
+
+# IDE/editor
+.vscode/
+.idea/
