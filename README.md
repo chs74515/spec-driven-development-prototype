@@ -182,7 +182,7 @@ python mock_itential_sdd.py
 
 
 
-Run v2 with a safe prompt:
+**Run v2 with a safe prompt:**
 
 
 
@@ -190,7 +190,7 @@ python mock_itential_sdd_safety.py --prompt "Provision VLAN 50 named Finance on 
 
 
 
-Run v2 with an unsafe prompt:
+**Run v2 with an unsafe prompt:**
 
 
 
@@ -271,18 +271,6 @@ Natural-Language Prompt
 | Dry Run Only                  |
 
 +-------------------------------+
-
-                |
-
-                v
-
-+-------------------------------+
-
-| Mock Compiled Asset Payload   |
-
-+-------------------------------+-> 
-
-
 
 The repository is designed to show engineering evolution.
 
