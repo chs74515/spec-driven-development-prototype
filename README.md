@@ -1,4 +1,4 @@
-# Itential SDD Prototype
+# Spec Driven Development Prototype
 
 A local Python prototype that models an Itential-inspired Spec-Driven Development workflow for infrastructure automation.
 
